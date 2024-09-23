@@ -7,6 +7,6 @@ The unit has 2 pull cords:
   * If the cord is pulled on speed 3, the fan returns to the “off” setting.
 * One reverses the direction of the fan at the current speed setting.
 * Once the direction has been reversed, it remains reversed as we cycle through the speed settings, until reversed again.
-* You can assume the unit is always powered (no wall switch)
+* You can assume the unit is always powered (no wall switch).
 
 Include Unit Test cases as well in the deliverable.
