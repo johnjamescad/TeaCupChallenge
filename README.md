@@ -1,4 +1,4 @@
-# TeaCupChallenge
+# Tea Cup Challenge
 
 Implement a simple ceiling fan with these characteristics:
 
